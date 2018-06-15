@@ -12,6 +12,8 @@ tags:
   - layout
 ---
 
+<iframe src="https://vk.com/video_ext.php?oid=-163451681&id=456239142&hash=fbf5ca9f62e91542" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 This post should display a **header with a responsive video**, if the theme supports it.
 
 ## Settings
