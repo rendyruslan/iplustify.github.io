@@ -14,12 +14,6 @@ tags:
   * Genres: Pop, Music
   * Released: May 25, 2018 
   * ℗ 2018 Sony Music Entertainment US Latin LLC
-
-Genres: Pop, Music
-
-Released: May 25, 2018 
-
-℗ 2018 Sony Music Entertainment US Latin LLC
   
 [Download](#){: .btn .btn--danger}
 {: style="text-align: center;"}
