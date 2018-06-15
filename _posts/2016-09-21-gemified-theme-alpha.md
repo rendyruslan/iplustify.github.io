@@ -5,8 +5,6 @@ categories:
   - Jekyll
 tags:
   - update
-toc: true
-toc_label: "Getting Started"
 ---
 
 <figure>
