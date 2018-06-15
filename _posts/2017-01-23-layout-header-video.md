@@ -12,7 +12,7 @@ tags:
   - layout
 ---
 
-<iframe src="https://vk.com/video-144089068_456240412" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vk.com/video_ext.php?oid=-112147394&id=456239479&hash=992b51f56b5d6cf8" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://vk.com/video_ext.php?oid=-163451681&id=456239142&hash=fbf5ca9f62e91542" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
