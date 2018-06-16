@@ -15,5 +15,13 @@ tags:
   * Released: May 25, 2018 
   * ℗ 2018 Sony Music Entertainment US Latin LLC
   
+<p>Genres: Pop, Music</p>
+<p>Released: May 25, 2018</p>
+<p>℗ 2018 Sony Music Entertainment US Latin LLC</p>
+
+<br>Genres: Pop, Music</br>
+<br>Released: May 25, 2018</br>
+<br>℗ 2018 Sony Music Entertainment US Latin LLC</br>
+  
 [Download](#){: .btn .btn--danger}
 {: style="text-align: center;"}
