@@ -17,5 +17,5 @@ Genres: Pop, Music
 <br>℗ 2018 Sony Music Entertainment US Latin LLC
   
 
-[Download](#){: .btn .btn--danger}
+[Download](#){:target="_blank"}{: .btn .btn--danger}
 {: style="text-align: center;"}
