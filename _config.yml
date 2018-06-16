@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rendy Ruslan"
+title                    : "iPlustify"
 title_separator          : "-"
-name                     : "Rendy Ruslan"
+name                     : "iPlustify"
 description              : "An amazing website."
 url                      : "https://rendyruslan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
