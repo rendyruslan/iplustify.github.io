@@ -13,7 +13,7 @@ tags:
 <figure>
 	<a href="https://pp.userapi.com/c847219/v847219128/75f03/zmv36SarJ7Y.jpg"><img src="https://pp.userapi.com/c847219/v847219128/75f03/zmv36SarJ7Y.jpg"></a>
 </figure>
-<br>Genres: Pop, Music
+Genres: Pop, Music
 <br>Released: May 25, 2018
 <br>℗ 2018 Sony Music Entertainment US Latin LLC
   
