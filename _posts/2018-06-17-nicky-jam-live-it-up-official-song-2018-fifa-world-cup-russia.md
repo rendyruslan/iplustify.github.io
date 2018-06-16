@@ -1,6 +1,6 @@
 ---
 title:  "Nicky Jam - Live It Up (Official Song 2018 FIFA World Cup Russia) [feat. Will Smith & Era Istrefi] - Single"
-last_modified_at: 2018-06-17T16:00:58-04:00
+last_modified_at: {{ page.last_modified_at | date_to_xmlschema | jsonify }}
 categories: 
   - Pop
   - Single
