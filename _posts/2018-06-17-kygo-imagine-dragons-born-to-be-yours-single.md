@@ -11,7 +11,7 @@ tags:
 ---
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/pict/kygo-imagine-dragons-born-to-be-yours-single.jpg" alt="Kygo & Imagine Dragons - Born to Be Yours - Single">
+  <img src="/assets/pict/kygo-imagine-dragons-born-to-be-yours-single.jpg" alt="Kygo & Imagine Dragons - Born to Be Yours - Single">
 </figure> 
 Genres: Pop, Music
 <br>Released: 15 Jun 2018 
