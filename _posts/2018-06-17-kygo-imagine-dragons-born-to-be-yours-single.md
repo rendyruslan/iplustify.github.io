@@ -1,5 +1,6 @@
 ---
 title:  "Kygo & Imagine Dragons - Born to Be Yours - Single"
+excerpt: "Kygo & Imagine Dragons - Born to Be Yours - Single - iplustify."
 header:
   teaser: "assets/pict/kygo-imagine-dragons-born-to-be-yours-single.jpg"
 categories: 
@@ -18,5 +19,5 @@ Genres: Pop, Music
 <br>℗ 2018 Kygo AS under exclusive license to Sony Music Entertainment International Ltd / Ultra Records, LLC
   
 
-[Download](http://zipansion.com/1a5ll){:target="_blank"}{: .btn .btn--danger}
+[Download](http://zipansion.com/1acUg){:target="_blank"}{: .btn .btn--danger}
 {: style="text-align: center;"}
