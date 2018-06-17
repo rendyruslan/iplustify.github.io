@@ -187,7 +187,7 @@
     display: none;
 
     @include breakpoint($medium) {
-      display: block;
+      display: none;
       font-size: $type-size-6;
     }
   }
