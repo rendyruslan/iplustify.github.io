@@ -22,7 +22,7 @@ foo:
 main:
   - title: "Category"
     url: /categories/
-  - title: "About us"
+  - title: "About"
     url: /about/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
