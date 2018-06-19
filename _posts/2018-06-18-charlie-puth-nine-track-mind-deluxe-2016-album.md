@@ -1,6 +1,7 @@
 ---
 title:  "Charlie Puth - Nine Track Mind (Deluxe) (2016) - Album"
 excerpt: "Charlie Puth - Nine Track Mind (Deluxe) (2016) - Album - iplustify."
+date: 2018-06-18T17:15:26Z
 last_modified_at: 2018-06-19T06:38:30Z
 header:
   teaser: "assets/pict/charlie-puth-nine-track-mind-deluxe-2016-album.jpg"
