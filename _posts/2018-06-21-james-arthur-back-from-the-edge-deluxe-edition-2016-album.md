@@ -18,87 +18,32 @@ Genres: Pop, Music
 <br>Released: 28 October 2016 
 <br>℗ 2016 Sony Music Entertainment Germany GmbH
 
-## Tables
+## Songs
 
-| TITLE | TIME | Header3 |
+| TITLE | TIME | 
 |:--------|:-------:|
 | 1. Back from the Edge   | 3:53   | 
 | 2. Say You Won't Let Go   | 3:31   | 
 | 3. Prisoner   | 3:58   | 
 | 4. Can I Be Him   | 4:06   | 
 | 5. I Am   | 3:11   | 
-| 3. Prisoner   | 3:58   | 
-| 3. Prisoner   | 3:58   | 
-| 3. Prisoner   | 3:58   | 
-| 3. Prisoner   | 3:58   | 
-| 3. Prisoner   | 3:58   | 
-| 3. Prisoner   | 3:58   | 
-| 3. Prisoner   | 3:58   | 
+| 6. Train Wreck   | 3:28   | 
+| 7. Safe Inside   | 3:42   | 
+| 8. Sober  | 3:06   | 
+| 9. Phoenix   | 4:09   | 
+| 10. Let Me Love the Lonely   | 2:52   | 
+| 11. Sermon (feat. Shotty Horroh)   | 4:32   | 
+| 12. Remember Who I Was   | 2:58   | 
+| 13. Finally   | 4:21   | 
+| 14. The Truth   | 4:20   | 
+| 15. Skeletons   | 3:57   | 
+| 16. Only I Was   | 4:03  | 
+| 17. Coming Home for Summer   | 3:49   | 
 |=====
-| Foot1   | Foot2   | 
+|    |    | 
 {: rules="groups"}
 
-		
-
-
-	
-
-
-	
-
-
-	
-
-
-	
-
-
-
-
-6. Train Wreck
-	3:28
-
-7. Safe Inside
-	3:42
-
-8. Sober
-	3:06
-
-9. Phoenix
-	4:09
-
-10. Let Me Love the Lonely
-	2:52
-
-11. Sermon (feat. Shotty Horroh)
-	4:32
-
-12. Remember Who I Was
-	2:58
-
-13. Finally
-	4:21
-
-14
-The Truth
-	4:20
-
-15
-Skeletons
-	3:57
-
-16
-If Only
-	4:03
-
-17
-Coming Home for Summer
-	3:49
-
-  
-
-[Download](http://alfafile.net/file/CtXv){:target="_blank"}{: .btn .btn--danger}
+[Download](http://alfafile.net/file/CtXv){:target="_blank"}{: .btn .btn--info} [Available on iTunes](https://itunes.apple.com/id/album/back-from-the-edge/1147252339){:target="_blank"}{: .btn .btn--danger}
 {: style="text-align: center;"}
 
-[Available on iTunes](https://itunes.apple.com/id/album/back-from-the-edge/1147252339){:target="_blank"}{: .btn .btn--danger}
-{: style="text-align: center;"}
+
