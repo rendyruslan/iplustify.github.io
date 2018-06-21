@@ -1,8 +1,8 @@
 ---
 title:  "James Arthur - Back from the Edge (Deluxe Edition) (2016) - Album"
 excerpt: "James Arthur - Back from the Edge (Deluxe Edition) (2016) - Album - iPlustify."
-date: 2018-06-21T17:15:26Z
-last_modified_at: 2018-06-21T06:38:30Z
+date: 2018-06-21 17:02:08
+last_modified_at: 2018-06-21 17:02:08
 header:
   teaser: "assets/pict/james-arthur-back-from-the-edge-deluxe-edition-2016-album.jpg"
 tags:
